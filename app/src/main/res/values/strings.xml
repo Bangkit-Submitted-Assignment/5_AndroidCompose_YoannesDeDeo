@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Jujutsu Anime Character</string>
+    <string name="home_tittle">Home</string>
+    <string name="profile_tittle">Profile</string>
+    <string name="search_character">Search your favorite character</string>
+    <string name="scroll_to_top">Scroll to Top</string>
+    <string name="user">Yoannes De Deo Haryo Wibisono</string>
+    <string name="userEmail">yoannes.haryo@gmail.com</string>
+    <string name="kosong">kosong</string>
+</resources>
